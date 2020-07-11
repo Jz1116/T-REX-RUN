@@ -10,4 +10,8 @@ There is no WINNING condition for this game. When t-rex is hit by the obstacle, 
 
 I hope that you enjoy this game. Thank you very much!!
 
+To run this game:
+The GBA program is run in the Docker.
+In the terminal, cd to the local file and type make med to run the emulator. 
+
 By Zhen Jiang 
